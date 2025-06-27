@@ -1,7 +1,7 @@
 {
     "name": "Snappy Pad v1",
-    "vendorId": "temp",
-    "productId": "temp",
+    "vendorId": "0x16D0",
+    "productId": "0x1451",
     "matrix": {
         "rows": 3,
         "cols": 4
