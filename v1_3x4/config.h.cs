@@ -1,7 +1,5 @@
-﻿#pragma once
-#include "quantum.h"
+// Copyright 2025 Snappy Key <snappykey@gmail.com>
+// SPDX-License-Identifier: GPL-2.0-or-later
+#pragma once
 
-#define DIP_SWITCH_PINS { B6, F6 }
-#define LED1 F7
-#define LED2 B2
-#define LED3 B5
+#define MATRIX_MASKED
